@@ -178,7 +178,7 @@ export default function Home() {
               style={{
                 fontFamily: 'var(--font-dm-sans), DM Sans, sans-serif',
                 fontSize: '0.8rem',
-                color: '#b07d4e',
+                color: '#7a5540',
                 marginBottom: '2.5rem',
                 lineHeight: 1.6,
               }}

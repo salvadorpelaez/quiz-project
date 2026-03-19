@@ -174,6 +174,17 @@ export default function Home() {
             >
               Answer 6 quick questions and find out which coffee matches your soul.
             </p>
+            <p
+              style={{
+                fontFamily: 'var(--font-dm-sans), DM Sans, sans-serif',
+                fontSize: '0.8rem',
+                color: '#b07d4e',
+                marginBottom: '2.5rem',
+                lineHeight: 1.6,
+              }}
+            >
+              Built with Claude Code — AI-assisted development.
+            </p>
             <button
               onClick={() => setStarted(true)}
               style={{
